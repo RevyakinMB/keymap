@@ -1,0 +1,6 @@
+lintCache.json
+.idea/
+node_modules/
+app/public/libs/
+app/public/po/*.mo
+app/public/app.js
